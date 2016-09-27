@@ -5,7 +5,7 @@ int main(void){
 
    /* ------------- REPETIR POR SIEMPRE ------------- */
    while(1) {
-
+      printf("Presionar una tecla");
       delay(1000);
 
    }
